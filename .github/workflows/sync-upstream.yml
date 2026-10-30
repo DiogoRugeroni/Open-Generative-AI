@@ -1,0 +1,20 @@
+name: Sync com o original
+
+# Todos os dias vai buscar as novidades do Anil-matcha/Open-Generative-AI
+# para o main deste fork. Também se pode correr à mão em Actions → Run workflow.
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Atualizar main a partir do original
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${{ github.repository }}/merge-upstream" -f branch=main
