@@ -8,8 +8,8 @@
 **Community:** Join [Discord](https://discord.com/invite/zpnuBRXhKg) for discussions and support
 
 
-<p align="center"><a href="https://youtu.be/DVPye2uAJQc"><img src="https://i.ytimg.com/vi/DVPye2uAJQc/maxresdefault.jpg" width="720"></a></p>
-<p align="center"><a href="https://youtu.be/DVPye2uAJQc"><b>▶ Watch: GPT Image 2.6 API (ChatGPT Images 2.6): GIFs, Flare vs Sunburst & How to Use It </b></a></p>
+<p align="center"><a href="https://youtu.be/PUYsfx_ZCaE"><img src="https://i.ytimg.com/vi/PUYsfx_ZCaE/maxresdefault.jpg" width="720"></a></p>
+<p align="center"><a href="https://youtu.be/PUYsfx_ZCaE"><b>▶ Watch: Best Free Uncensored AI Image & Video Models in 2026 (Ranked) </b></a></p>
 
 <p align="center">
   <a href="https://github.com/Anil-matcha/awesome-generative-ai-apps">
@@ -18,6 +18,8 @@
 </p>
 
 > 🎨 **[Explore 50+ more open-source AI apps →](https://github.com/Anil-matcha/awesome-generative-ai-apps)**
+
+> 🤝 **New: [Open Duet](https://github.com/Anil-matcha/open-duet)** — open-source, self-hosted AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. An alternative to Claude Duet, OpenAI Dots, and Manus Cue. [Star it on GitHub →](https://github.com/Anil-matcha/open-duet)
 
 ## 💰 Turn This Into Your Own Product — White Label & Resell
 
@@ -64,6 +66,7 @@ This is a curated set of high-value hubs, popular distribution tools, and model-
 - [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) — compare video models by API, price, and capability.
 - [awesome-ai-image-models](https://github.com/Anil-matcha/awesome-ai-image-models) — compare image models by API, price, and quality.
 - [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) — Open-source Opus Clip alternative application.
+- [open-duet](https://github.com/Anil-matcha/open-duet) — Open-source, self-hosted AI coworkers with memory, routines, isolated computers, and approval-gated actions.
 - [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) — Ppen-source autonomous AI design agent.
 - [muapi-skills](https://github.com/SamurAIGPT/muapi-skills) — Agent-ready skills for driving generative-media workflows.
 - [Seedance-2.5-API](https://github.com/SamurAIGPT/Seedance-2.5-API) — Python SDK for Seedance 2.5 video generation.
