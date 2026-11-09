@@ -8,8 +8,8 @@
 **Community:** Join [Discord](https://discord.com/invite/zpnuBRXhKg) for discussions and support
 
 
-<p align="center"><a href="https://youtu.be/PUYsfx_ZCaE"><img src="https://i.ytimg.com/vi/PUYsfx_ZCaE/maxresdefault.jpg" width="720"></a></p>
-<p align="center"><a href="https://youtu.be/PUYsfx_ZCaE"><b>▶ Watch: Best Free Uncensored AI Image & Video Models in 2026 (Ranked) </b></a></p>
+<p align="center"><a href="https://youtu.be/DksS8GiXMcg"><img src="https://i.ytimg.com/vi/DksS8GiXMcg/maxresdefault.jpg" width="720"></a></p>
+<p align="center"><a href="https://youtu.be/DksS8GiXMcg"><b>▶ Watch: Cheapest Seedance 2.5 & 2.0 API: Real Faces, No Restrictions </b></a></p>
 
 <p align="center">
   <a href="https://github.com/Anil-matcha/awesome-generative-ai-apps">
