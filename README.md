@@ -8,8 +8,8 @@
 **Community:** Join [Discord](https://discord.com/invite/zpnuBRXhKg) for discussions and support
 
 
-<p align="center"><a href="https://youtu.be/tVXeGuGCMnE"><img src="https://i.ytimg.com/vi/tVXeGuGCMnE/maxresdefault.jpg" width="720"></a></p>
-<p align="center"><a href="https://youtu.be/tVXeGuGCMnE"><b>▶ Watch: Best Uncensored AI Video Model </b></a></p>
+<p align="center"><a href="https://youtu.be/7v6JB2WO29o"><img src="https://i.ytimg.com/vi/7v6JB2WO29o/maxresdefault.jpg" width="720"></a></p>
+<p align="center"><a href="https://youtu.be/7v6JB2WO29o"><b>▶ Watch: I Found the EASIEST Way to Generate Uncensored AI Videos & Images (Free) </b></a></p>
 
 <p align="center">
   <a href="https://github.com/Anil-matcha/awesome-generative-ai-apps">
